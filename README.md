@@ -101,3 +101,4 @@ assets folder.
 # Repository-Baru
 # Aplikasi-Deteksi-Kualitas-Kesegaran-Ikan-Nila
 # Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
+# Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
