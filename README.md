@@ -102,3 +102,4 @@ assets folder.
 # Aplikasi-Deteksi-Kualitas-Kesegaran-Ikan-Nila
 # Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
 # Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
+# Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
