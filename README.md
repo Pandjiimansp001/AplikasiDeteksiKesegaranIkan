@@ -103,3 +103,4 @@ assets folder.
 # Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
 # Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
 # Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
+# Deteksi-Kualitas-Kesegaran-Ikan-Nila-Dengan-Tensorflow
