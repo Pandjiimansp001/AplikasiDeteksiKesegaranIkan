@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\KULIAH\\MAGANG\\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\\CurrencyDetectorAndroid-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Pandjiimansp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\eb8e1b6d10ce22b4e7e0c7d2c95cccbf\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

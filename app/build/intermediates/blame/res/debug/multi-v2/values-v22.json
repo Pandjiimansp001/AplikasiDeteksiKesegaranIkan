@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\KULIAH\\MAGANG\\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\\CurrencyDetectorAndroid-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Pandjiimansp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\eb8e1b6d10ce22b4e7e0c7d2c95cccbf\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

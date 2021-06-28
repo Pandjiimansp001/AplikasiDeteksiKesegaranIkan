@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\29626889944e2a934b047a8bbefd72e7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\eb8e1b6d10ce22b4e7e0c7d2c95cccbf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\56301dc77c24fde68b854584f07eca16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\22e275d49949bfb247613d077b9c0b56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\8197d2fb3a76eec221cfc9401faa06c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6f74f1c782035828f11a49415fc95ceb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9c2d50006a99d72c4cd04295f9e5d500\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-support-0.0.0-nightly.aar\18e425f6a01a4326b470617349a2fb15\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\4f3cf482ca882a51c52a7ad43f167f6d\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\0300ef5542137b18c83aa8ae0913a872\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ffa8b865926c74067de3d30096a45b1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c102f6fd0c9003b7799388c15421fb55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e85d3d51cd045168249ec101ed0cae5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\66b78942732afe9feb2b15d0d720a73e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\19530ad356eea2eea24debb3c38b404b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\e2b9a546c9f3b32403d80f110bc2f13d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\db115445b5bf705cfc905c77c96cf5ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d6653744a981ed7a4bc1dfc24c9dc6c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\14909e609ead2bf755eebecbf8452218\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\b88d3dea3dab2813e17444c0b0aaa44c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e0918e1080d526bc00935f2669458f52\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c32a938efb318a0c45f673241d2d3ac1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\4fbdbd8289aaa1b966d2a4859ae13c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fda494b2f3e41c93efa964ad36a050e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\21ff9d73081b2fa391d7165256cbf658\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0090ff37c81e5315f5beae92b263e53a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8fd17aca15ed6d220da9c5d3c4cbd72b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1c830a5d1c90991204a6660046eb81b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\dca226471b16223c2073458c98f4a7b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\0bace634470edb31630fd7aaf1d60c29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7f37bfeb442816b2f169f16b41535b31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7ec71998054ec310b722aed9f0013f3d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\531cddb175ecffd083cf8a4e3612e4b2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:2:5-58
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\29626889944e2a934b047a8bbefd72e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\29626889944e2a934b047a8bbefd72e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\eb8e1b6d10ce22b4e7e0c7d2c95cccbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\eb8e1b6d10ce22b4e7e0c7d2c95cccbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\56301dc77c24fde68b854584f07eca16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\56301dc77c24fde68b854584f07eca16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\22e275d49949bfb247613d077b9c0b56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\22e275d49949bfb247613d077b9c0b56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\8197d2fb3a76eec221cfc9401faa06c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\8197d2fb3a76eec221cfc9401faa06c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6f74f1c782035828f11a49415fc95ceb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6f74f1c782035828f11a49415fc95ceb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9c2d50006a99d72c4cd04295f9e5d500\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9c2d50006a99d72c4cd04295f9e5d500\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-support-0.0.0-nightly.aar\18e425f6a01a4326b470617349a2fb15\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-support-0.0.0-nightly.aar\18e425f6a01a4326b470617349a2fb15\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\4f3cf482ca882a51c52a7ad43f167f6d\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\4f3cf482ca882a51c52a7ad43f167f6d\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\0300ef5542137b18c83aa8ae0913a872\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\0300ef5542137b18c83aa8ae0913a872\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ffa8b865926c74067de3d30096a45b1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ffa8b865926c74067de3d30096a45b1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c102f6fd0c9003b7799388c15421fb55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c102f6fd0c9003b7799388c15421fb55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e85d3d51cd045168249ec101ed0cae5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\e85d3d51cd045168249ec101ed0cae5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\66b78942732afe9feb2b15d0d720a73e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\66b78942732afe9feb2b15d0d720a73e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\19530ad356eea2eea24debb3c38b404b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\19530ad356eea2eea24debb3c38b404b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\e2b9a546c9f3b32403d80f110bc2f13d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\e2b9a546c9f3b32403d80f110bc2f13d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\db115445b5bf705cfc905c77c96cf5ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\db115445b5bf705cfc905c77c96cf5ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d6653744a981ed7a4bc1dfc24c9dc6c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\d6653744a981ed7a4bc1dfc24c9dc6c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\14909e609ead2bf755eebecbf8452218\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\14909e609ead2bf755eebecbf8452218\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\b88d3dea3dab2813e17444c0b0aaa44c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\b88d3dea3dab2813e17444c0b0aaa44c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e0918e1080d526bc00935f2669458f52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e0918e1080d526bc00935f2669458f52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c32a938efb318a0c45f673241d2d3ac1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c32a938efb318a0c45f673241d2d3ac1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\4fbdbd8289aaa1b966d2a4859ae13c7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\4fbdbd8289aaa1b966d2a4859ae13c7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fda494b2f3e41c93efa964ad36a050e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fda494b2f3e41c93efa964ad36a050e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\21ff9d73081b2fa391d7165256cbf658\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\21ff9d73081b2fa391d7165256cbf658\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0090ff37c81e5315f5beae92b263e53a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0090ff37c81e5315f5beae92b263e53a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8fd17aca15ed6d220da9c5d3c4cbd72b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8fd17aca15ed6d220da9c5d3c4cbd72b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1c830a5d1c90991204a6660046eb81b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1c830a5d1c90991204a6660046eb81b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\dca226471b16223c2073458c98f4a7b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\dca226471b16223c2073458c98f4a7b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\0bace634470edb31630fd7aaf1d60c29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\0bace634470edb31630fd7aaf1d60c29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7f37bfeb442816b2f169f16b41535b31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7f37bfeb442816b2f169f16b41535b31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7ec71998054ec310b722aed9f0013f3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7ec71998054ec310b722aed9f0013f3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\531cddb175ecffd083cf8a4e3612e4b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\531cddb175ecffd083cf8a4e3612e4b2\AndroidManifest.xml:20:5-44
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:9:19-67
+application
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:12:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\29626889944e2a934b047a8bbefd72e7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\29626889944e2a934b047a8bbefd72e7\AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\4f3cf482ca882a51c52a7ad43f167f6d\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\4f3cf482ca882a51c52a7ad43f167f6d\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\0300ef5542137b18c83aa8ae0913a872\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\0300ef5542137b18c83aa8ae0913a872\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e0918e1080d526bc00935f2669458f52\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e0918e1080d526bc00935f2669458f52\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c32a938efb318a0c45f673241d2d3ac1\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c32a938efb318a0c45f673241d2d3ac1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Pandjiimansp\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e0918e1080d526bc00935f2669458f52\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:15:9-61
+	android:roundIcon
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:16:9-50
+	android:icon
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:18:9-40
+activity#org.tensorflow.lite.examples.classification.ClassifierActivity
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:20:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\KULIAH\MAGANG\PROJECT APLIKASI DETEKSI KUALITAS IKAN 3\CurrencyDetectorAndroid-master\app\src\main\AndroidManifest.xml:25:27-74
